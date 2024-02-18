@@ -1,0 +1,4 @@
+C:\Users\Hemze_bk91\Desktop\System_Programing_Thread_Homework2-master\System_Programing_Thread_Homework2-master\System_Programing_Thread_Homework2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Hemze_bk91\Desktop\System_Programing_Thread_Homework2-master\System_Programing_Thread_Homework2-master\System_Programing_Thread_Homework2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Hemze_bk91\Desktop\System_Programing_Thread_Homework2-master\System_Programing_Thread_Homework2-master\System_Programing_Thread_Homework2\obj\Debug\net6.0-windows\System_Programing_Thread_Homework2_MarkupCompile.cache
+C:\Users\Hemze_bk91\Desktop\System_Programing_Thread_Homework2-master\System_Programing_Thread_Homework2-master\System_Programing_Thread_Homework2\obj\Debug\net6.0-windows\System_Programing_Thread_Homework2_MarkupCompile.lref
